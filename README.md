@@ -1,4 +1,4 @@
-README Orange 6
+README Orange-6
 
 Danilowicz, Nicholas: qyn3uk	
 Fox, Jonathan: vnw6bv
